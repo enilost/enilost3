@@ -325,7 +325,7 @@ P {
 }
 .vintage__oliva .fullscreen__wrapper .small__block .small__blog__pic {
   min-height: 30%;
-  flex-shrink: 0;
+  flex-shrink: 1;
   flex-grow: 1;
   position: relative;
 }
